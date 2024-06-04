@@ -1,0 +1,28 @@
+{
+  "name": "chat-node",
+  "version": "1.0.0",
+  "description": "Testando node-openai",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonatasperaza/Chat-Node.git"
+  },
+  "keywords": [
+    "chat-gpt",
+    "gpt",
+    "AI",
+    "IA",
+    "nodejs",
+    "node",
+    "openai"
+  ],
+  "author": "Jonatas Silva Peraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonatasperaza/Chat-Node/issues"
+  },
+  "homepage": "https://github.com/jonatasperaza/Chat-Node#readme"
+}
